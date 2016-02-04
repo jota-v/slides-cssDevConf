@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "CSSDevConf",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "jota-v",
+    "githubRepository": "slides-cssDevConf"
+  }
+}
