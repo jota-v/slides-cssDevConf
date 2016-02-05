@@ -15,10 +15,9 @@
 @import "../../bower_components/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
-
 // Include theme-specific fonts
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300,700italic,400italic);
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
 $backgroundColor: #222;
@@ -26,19 +25,23 @@ $backgroundColor: #222;
 $mainColor: #fff;
 $headingColor: #fff;
 
+$yellow: #E6BF3B;
+$blue: #4770CC;
+$grey: #414143;
+
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingTextShadow: none;
+$mainFont: 'Roboto Condensed', Helvetica, sans-serif;
+$headingFont: 'Roboto Condensed', Helvetica, sans-serif;
+$headingTextShadow: ;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
-$headingFontWeight: 600;
+$headingFontWeight: 700;
 $linkColor: #42affa;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.5em;
-$heading2Size: 1.6em;
+$heading1Size: 4.5em;
+$heading2Size: 2em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
@@ -51,3 +54,47 @@ section.has-light-background {
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+.reveal {
+
+	.main-title {
+		line-height: 1;
+	}
+
+	.slide-background {
+		background-size:cover!important;
+	}
+
+	.slide-dark {
+		color: #fff;
+		text-shadow:-2px 2px 0 #221E1F, -3px 3px 0 #221E1F;
+	}
+
+	.slide-light {
+		color: #221E1F;
+		text-shadow: -2px 2px 0px #fff, -3px 3px 0px #fff;
+	}
+
+	.shadow-3d--big--white {
+		text-shadow: -2px 2px 0px #fff, -3px 3px 0px #fff, -4px 4px 0px #fff, -5px 5px 0px #fff,-6px 6px 0px #fff,-7px 7px 0px #fff,-8px 8px 0px #fff,-9px 9px 0px #fff,-10px 10px 0px #fff,-11px 11px 0px #fff !important;
+	}
+
+	.shadow-3d--big--dark {
+		text-shadow: -2px 2px 0px #221E1F, -3px 3px 0px #221E1F, -4px 4px 0px #221E1F, -5px 5px 0px #221E1F,-6px 6px 0px #221E1F,-7px 7px 0px #221E1F,-8px 8px 0px #221E1F,-9px 9px 0px #221E1F,-10px 10px 0px #221E1F,-11px 11px 0px #221E1F !important;
+	}
+
+	small {
+		font-size: .7em;
+	}
+	.animation-tilt {
+		animation: tilt 1s linear infinite;
+	}
+}
+
+@keyframes tilt {
+	0% {
+		opacity: 1
+	}
+	50% {
+		opacity: 0
+	}
+}

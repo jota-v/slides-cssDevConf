@@ -1,1 +1,276 @@
-["index.md"]
+[
+    {
+        "filename": "cover.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "story-begins.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "boat.html",
+        "attr": {
+            "data-background": "url('images/queen-mary.jpg')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "titanic1.html",
+        "attr": {
+            "data-background": "url('images/titanic1.jpg')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "titanic2.html",
+        "attr": {
+            "data-background": "url('images/titanic2.jpg')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "titanic3.html",
+        "attr": {
+            "data-background": "url('images/titanic3.png')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "empecemos.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "temario.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal1.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal2.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "inlinevsglobal3.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "inlinevsglobal4.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal5.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal6.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal7.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "inlinevsglobal8.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "svg1.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "svg2.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "svg3.html",
+        "attr": {
+            "data-background": "url('images/svg-support.png')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "patternlibraries2.html",
+        "attr": {
+            "data-background": "url('images/zombie-pattern.png')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries3.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "patternlibraries4.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "patternlibraries5.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries6.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries7.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries8.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "patternlibraries9.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "opensource1.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "opensource2.html",
+        "attr": {
+            "data-background": "url('images/willis.jpg')",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "opensource3.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "opensource4.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "opensource5.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "opensource6.html",
+        "attr": {
+            "data-background": "#4770CC",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "extras1.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "extras2.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "extras3.html",
+        "attr": {
+            "data-background": "#E6BF3B",
+            "class": "slide-light"
+        }
+    },
+    {
+        "filename": "theend.html",
+        "attr": {
+            "data-background": "#414143",
+            "class": "slide-dark"
+        }
+    },
+    {
+        "filename": "theend2.html",
+        "attr": {
+            "data-background": "url('images/applause.jpeg')",
+            "class": "slide-dark"
+        }
+    }
+
+]
